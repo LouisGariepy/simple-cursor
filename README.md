@@ -28,6 +28,8 @@
   </a>
 </div>
 
+<br/>
+
 A super simple `#[no_std]`-compatible character cursor implementation geared towards lexers/tokenizers. The implementation is inspired by the one used in `rustc` and should be performant enough to handle pretty much anything you could throw at it.
 
 
