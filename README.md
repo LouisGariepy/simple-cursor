@@ -17,7 +17,9 @@
   </a>
 
   <!-- no_std -->
-  <img alt="no_std compatible" src="https://img.shields.io/badge/no__std_compatible-green?style=flat-square"/>
+  <picture>
+    <img alt="no_std compatible" src="https://img.shields.io/badge/no__std-compatible-light_green?style=flat-square"/>
+  </picture>
 
  
   <!-- License -->
