@@ -3,29 +3,43 @@
 <div align="center">
   <!-- Version -->
   <a href="https://crates.io/crates/simple-cursor">
-    <img src="https://img.shields.io/crates/v/simple-cursor.svg?style=flat-square"
-    alt="Crates.io version" />
+    <img
+      alt="Crates.io version"
+      src="https://img.shields.io/crates/v/simple-cursor.svg?style=flat-square"
+    />
   </a>
 
   <!-- Docs -->
   <a href="https://docs.rs/simple-cursor/latest/simple_cursor/">
-    <img alt="docs.rs" src="https://img.shields.io/docsrs/simple-cursor?style=flat-square">
+    <img
+      alt="docs.rs"
+      src="https://img.shields.io/docsrs/simple-cursor?style=flat-square"
+    />
   </a>
   
   <!-- Dependencies -->
   <a href="https://deps.rs/repo/github/LouisGariepy/simple-cursor">
-    <img src="https://deps.rs/repo/github/LouisGariepy/simple-cursor/status.svg?style=flat-square"
-    alt="Crates.io version" />
+    <img
+      alt="Crates.io version"
+      src="https://deps.rs/repo/github/LouisGariepy/simple-cursor/status.svg?style=flat-square"
+    />
   </a>
 
-  <img 
-    src="https://img.shields.io/badge/no__std_compatible-green?style=flat-square"
-    alt="no_std compatible"
-  />
+  <!-- no_std -->
+  <div>
+    <img
+      alt="no_std compatible" 
+      src="https://img.shields.io/badge/no__std_compatible-green?style=flat-square"
+    />
+  </div>
+
  
   <!-- License -->
   <a href="https://github.com/LouisGariepy/simple-cursor#License">
-    <img src="https://img.shields.io/badge/License-APACHE--2.0%2FMIT-blue?style=flat-square" alt="License">
+    <img
+      alt="License"
+      src="https://img.shields.io/badge/License-APACHE--2.0%2FMIT-blue?style=flat-square"
+    />
   </a>
 </div>
 
